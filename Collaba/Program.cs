@@ -10,6 +10,7 @@ namespace Collaba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ТОГО РОТ...");
         }
     }
 }
